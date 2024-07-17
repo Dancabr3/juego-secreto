@@ -1,5 +1,5 @@
 let numeroSecreto = 0;
-let intentos = 10;
+let intentos = 0;
 // este código es para evitar que el numero sorteado se repita en el segundo intento
 let listaNumeroSorteado = [];
 let numeroMaximo = 10;
