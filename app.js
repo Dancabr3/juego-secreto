@@ -2,7 +2,7 @@ let numeroSecreto = 0;
 let intentos = 0;
 // este código es para evitar que el numero sorteado se repita en el segundo intento
 let listaNumeroSorteado = [];
-let numeroMaximo = 10;
+let numeroMaximo = 3;
 
 function asignarTextoElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
